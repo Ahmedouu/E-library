@@ -2,11 +2,11 @@
 Ethereum based library web application
 
 
-I am going to build an smart contract based library system, of course books are not free, so this system will allow users to send money (Ether) directly to the authors.
+I am going to build a smart contract based library system, of course books are not free, so this system will allow users to send money (Ether) directly to the authors.
 
 This still a proof of concept there is a lot to be done here with the contract and the interface, but it's something so if you want to try it:
 
-compile the smart contract and deploy it , navigate to public/logic.js and change the following line with your contract address:
+compile the smart contract and deploy it, navigate to public/logic.js and change the following line with your contract address:
 ```
 const contractAddress = '0x968232491C5Cb725F077a0ABF51AFb7B80adf303';
 ```
