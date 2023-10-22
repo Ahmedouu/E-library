@@ -16,3 +16,13 @@ Then
 npm install 
 npm start
 ```
+
+# To Do
+
+ISBN is as a counter that locates the book using mappings this is nice, but we need the ISBN to be added as input as well 
+
+Modifiers this contract is very unsecure
+
+Improve UX alerts are scary
+
+
